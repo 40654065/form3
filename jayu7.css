@@ -1,0 +1,52 @@
+*{
+ 
+    padding: 0px;
+    
+    
+}
+
+.a{
+    margin-top: 5%;
+    float: left;
+    width: 40%;
+    padding-right: 5%;
+
+}
+
+.b{
+    float:right ;
+    width: 20%;
+    padding-right: 30%;
+
+}
+#a{
+    text-align: center;
+}
+.c{
+    text-decoration: none;
+}
+.D{
+    text-align: center;
+    background-color: blue;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+}
+
+.e{
+    margin-top: 10%;
+    height: 460px;
+    text-align: center;
+    width:1020px;
+    border-radius: 10px;
+
+}
+
+#ab{
+
+    width:200px;
+    padding-right: 50px;
+    margin-right:10%;
+    height: 25px;
+}
+
